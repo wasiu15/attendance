@@ -92,6 +92,7 @@ button {
 .center a {
   text-align: center;
   color: #7281e4;
+  text-decoration: none;
 }
 
 /* MOBILE VIEW */
