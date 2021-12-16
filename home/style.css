@@ -114,3 +114,12 @@ body {
   height: 30px !important;
   width: 30px !important;
 }
+
+@media screen and (max-width: 600px) {
+  .sidebar {
+    display: none !important;
+  }
+  .container {
+    grid-template-columns: 1fr !important;
+  }
+}
